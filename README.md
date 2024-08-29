@@ -22,4 +22,4 @@ A simple Python tool to assess the strength of a password based on complexity cr
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/password-complexity-checker.git
+   git clone https://github.com/rahuldavis91/PRODIGY_CS_03/blob/main/password_complexity_checker.py
